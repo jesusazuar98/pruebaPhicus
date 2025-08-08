@@ -18,5 +18,7 @@ Antes de comenzar, asegúrate de tener instalado:
 Clona el repositorio y entra en la carpeta del proyecto:
 
 ```bash
-git clone https://github.com/tu-usuario/pruebaphicus.git
+git clone https://github.com/jesusazuar98/pruebaPhicus.git
 cd pruebaphicus
+npm install
+npm run dev
