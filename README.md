@@ -1,33 +1,22 @@
-# pruebaPhicus
+# 🚀 pruebaphicus
 
-This template should help get you started developing with Vue 3 in Vite.
+Proyecto basado en **Vue 3 + Vite + TypeScript**, diseñado para desarrollo moderno y rápido.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📦 Requisitos
 
-## Type Support for `.vue` Imports in TS
+Antes de comenzar, asegúrate de tener instalado:
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- [Node.js](https://nodejs.org/) versión **20.19.0** o superior (`>=22.12.0` también es compatible)
+- [npm](https://www.npmjs.com/) o [pnpm](https://pnpm.io/) como gestor de paquetes
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🔧 Instalación
 
-## Project Setup
+Clona el repositorio y entra en la carpeta del proyecto:
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+```bash
+git clone https://github.com/tu-usuario/pruebaphicus.git
+cd pruebaphicus
